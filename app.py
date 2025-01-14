@@ -4,8 +4,8 @@ import websockets
 
 # Reverie API
 API_URL = "wss://revapi.reverieinc.com/stream?"
-apikey="dc0ba72ee55460b2e90714d3907c16ca8172009c&"
-appid="com.rhythem.jain2021&"
+apikey=""
+appid=""
 appname="stt_stream&"
 src_lang = "hi"
 domain="generic"
