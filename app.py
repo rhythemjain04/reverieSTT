@@ -3,14 +3,7 @@ import pyaudio
 import websockets
 
 # Reverie API
-API_URL = "wss://revapi.reverieinc.com/stream?"
-apikey=""
-appid=""
-appname="stt_stream&"
-src_lang = "hi"
-domain="generic"
-
-API_URL = API_URL+apikey+appid+appname+src_lang+"&"+domain
+API_URL = "wss://revapi.reverieinc.com/stream?apikey=dc0ba72ee55460b2e90714d3907c16ca8172009c&appid=com.rhythem.jain2021&appname=stt_stream&src_lang=en&domain=generic"
 
 # Audio configuration
 FORMAT = pyaudio.paInt16

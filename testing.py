@@ -16,9 +16,9 @@ if uploaded_files:
     headers = {
         "src_lang": "en",
         "domain": "generic",
-        "REV-API-KEY": "e30d637fa5c15043feb81335c516eac670a93db7",
+        "REV-API-KEY": "",
         "REV-APPNAME": "stt_file",
-        "REV-APP-ID": "com.pgupta_be21",
+        "REV-APP-ID": "",
         "format": "mp3",
     }
 
